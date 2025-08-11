@@ -25,4 +25,5 @@ This part of the project focuses **only on the ML pipeline**  the data science p
 - **Programming**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Imbalanced-learn, XGBoost
 - **Visualization**: Matplotlib, Seaborn
-- **Model Selection**: StratifiedKFold, GridSearchCV, RandomizedSearchCV
+- **Models Used**: XGBoost, Random Forest  
+- **Model Optimization & Evaluation**: StratifiedKFold, GridSearchCV, RandomizedSearchCV
